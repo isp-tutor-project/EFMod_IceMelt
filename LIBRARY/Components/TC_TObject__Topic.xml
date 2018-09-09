@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956f8f-00000b25" lastModified="1536520079">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/table" selected="true">
+                  <matrix>
+                    <Matrix tx="274.95" ty="231.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer" selected="true">
+                  <matrix>
+                    <Matrix a="0.8388671875" d="0.8388671875" tx="136.05" ty="152.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CDOThermometer" selected="true">
+                  <matrix>
+                    <Matrix a="0.8388671875" d="0.8388671875" tx="200.4" ty="44.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/ShortGlassPatternCombinedSolid" selected="true">
+                  <matrix>
+                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="395" ty="230.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglassicecube" selected="true">
+                  <matrix>
+                    <Matrix a="0.697265625" b="0.1839599609375" c="-0.19854736328125" d="0.752532958984375" tx="396.55" ty="200.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/Shortglasssteamonly" selected="true">
+                  <matrix>
+                    <Matrix tx="392.95" ty="170.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

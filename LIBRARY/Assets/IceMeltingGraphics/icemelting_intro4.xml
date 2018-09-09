@@ -1,0 +1,225 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/icemelting_intro4" itemID="5afc7786-000005f6" lastModified="1528816449">
+  <timeline>
+    <DOMTimeline name="icemelting_intro4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" d="4.57763671875e-05" tx="143" ty="51.15"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0470588235294118" ratio="0"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0117647058823529"/>
+                        <GradientEntry color="#979797" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0235294117647059"/>
+                        <GradientEntry color="#AEAEAE" ratio="0.0392156862745098"/>
+                        <GradientEntry color="#F9FFFF" ratio="0.0549019607843137"/>
+                        <GradientEntry color="#6579B3" alpha="0.298039215686275" ratio="0.729411764705882"/>
+                        <GradientEntry color="#B1B1B1" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="4.57763671875e-05" d="0" tx="143" ty="51.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0470588235294118" ratio="0"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0117647058823529"/>
+                        <GradientEntry color="#979797" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0235294117647059"/>
+                        <GradientEntry color="#AEAEAE" ratio="0.0392156862745098"/>
+                        <GradientEntry color="#F9FFFF" ratio="0.0549019607843137"/>
+                        <GradientEntry color="#6579B3" alpha="0.298039215686275" ratio="0.729411764705882"/>
+                        <GradientEntry color="#B1B1B1" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="6.103515625e-05" d="1.52587890625e-05" tx="143" ty="51.1"/>
+                        </matrix>
+                        <GradientEntry color="#C2FFFF" alpha="0.6" ratio="0"/>
+                        <GradientEntry color="#EBFFFF" alpha="0.870588235294118" ratio="0.0745098039215686"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-05" d="0" tx="143.05" ty="51.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0470588235294118" ratio="0"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0117647058823529"/>
+                        <GradientEntry color="#979797" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0235294117647059"/>
+                        <GradientEntry color="#AEAEAE" ratio="0.0392156862745098"/>
+                        <GradientEntry color="#F9FFFF" ratio="0.0549019607843137"/>
+                        <GradientEntry color="#6579B3" alpha="0.298039215686275" ratio="0.729411764705882"/>
+                        <GradientEntry color="#B1B1B1" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-05" d="4.57763671875e-05" tx="143.05" ty="51.15"/>
+                        </matrix>
+                        <GradientEntry color="#C2FFFF" alpha="0.6" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="4.57763671875e-05" d="0" tx="143.05" ty="51.1"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.0470588235294118" ratio="0"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0117647058823529"/>
+                        <GradientEntry color="#979797" ratio="0.0196078431372549"/>
+                        <GradientEntry color="#F4FFFF" ratio="0.0235294117647059"/>
+                        <GradientEntry color="#AEAEAE" ratio="0.0392156862745098"/>
+                        <GradientEntry color="#F9FFFF" ratio="0.0549019607843137"/>
+                        <GradientEntry color="#6579B3" alpha="0.298039215686275" ratio="0.729411764705882"/>
+                        <GradientEntry color="#B1B1B1" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#444444" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2859 1024|2859 1023!2859 1023|2860 1023"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!2859 1024|2860 1024!2860 1024|2860 1025"/>
+                    <Edge fillStyle1="2" edges="!2860 1025|2859 1025!2859 1025|2859 1024"/>
+                    <Edge fillStyle1="3" edges="!2860 1023|2860 1022!2860 1022|2861 1022"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="!2862 1024|2861 1024"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="!2861 1024|2861 1025"/>
+                    <Edge fillStyle1="5" edges="!2862 1023|2862 1024"/>
+                    <Edge fillStyle0="1" fillStyle1="5" strokeStyle="1" edges="!2861 1024|2861 1023"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="!2862 1023|2861 1023"/>
+                    <Edge fillStyle0="4" edges="!2861 1025|2862 1024"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="!2861 1023|2861 1022"/>
+                    <Edge fillStyle1="6" edges="!2861 1022|2862 1022!2862 1022|2862 1023"/>
+                    <Edge fillStyle1="1" edges="!2861 1025|2860 1025"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!2861 1023|2860 1023"/>
+                    <Edge cubics="!2860 1023(;2860,1023 2861,1023 2861,1023q2860 1023Q2860 1023q2861 1023);"/>
+                    <Edge cubics="!2862 1023(;2862,1024 2862,1024 2862,1024q2862 1023Q2862 1024q2862 1024);"/>
+                    <Edge cubics="!2862 1022(;2862,1022 2862,1022 2862,1023q2862 1022Q2862 1022q2862 1023);"/>
+                    <Edge cubics="!2859 1025(;2859,1025 2859,1025 2859,1024q2859 1025 2859 1024);"/>
+                    <Edge cubics="!2859 1024(;2859,1023 2859,1023 2859,1023q2859 1024 2859 1023);"/>
+                    <Edge cubics="!2860 1024(;2860,1025 2860,1025 2860,1025q2860 1024Q2860 1025q2860 1025);"/>
+                    <Edge cubics="!2860 1025(;2860,1025 2860,1025 2859,1025q2860 1025Q2860 1025q2859 1025);"/>
+                    <Edge cubics="!2859 1024(;2859,1024 2860,1024 2860,1024q2859 1024Q2859 1024q2860 1024);"/>
+                    <Edge cubics="!2860 1023(;2860,1023 2860,1022 2860,1022q2860 1023 2860 1022);"/>
+                    <Edge cubics="!2861 1022(;2861,1022 2862,1022 2862,1022q2861 1022 2862 1022);"/>
+                    <Edge cubics="!2861 1025(;2861,1025 2861,1024 2861,1024q2861 1025Q2861 1025q2861 1024);"/>
+                    <Edge cubics="!2860 1025(;2860,1025 2861,1025 2861,1025q2860 1025 2861 1025);"/>
+                    <Edge cubics="!2862 1023(;2862,1023 2861,1023 2861,1023q2862 1023 2861 1023);"/>
+                    <Edge cubics="!2859 1023(;2859,1023 2860,1023 2860,1023q2859 1023 2860 1023);"/>
+                    <Edge cubics="!2861 1024(;2861,1023 2861,1023 2861,1023q2861 1024Q2861 1023q2861 1023);"/>
+                    <Edge cubics="!2861 1024(;2862,1024 2862,1024 2862,1024q2861 1024 2862 1024);"/>
+                    <Edge cubics="!2861 1025(;2861,1025 2862,1024 2862,1024q2861 1025 2862 1024);"/>
+                    <Edge cubics="!2860 1022(;2860,1022 2861,1022 2861,1022q2860 1022 2861 1022);"/>
+                    <Edge cubics="!2861 1023(;2861,1023 2861,1022 2861,1022q2861 1023 2861 1022);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/digitalclockface">
+                  <matrix>
+                    <Matrix a="0.669723510742188" d="0.669723510742188" tx="99.05" ty="-139.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="12.2" height="11.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="144.05" ty="-119.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.2" size="10" bitmapSize="200" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="107.05" height="47" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="51.2" ty="-162.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>9:05</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="47" size="42" bitmapSize="840" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/table">
+                  <matrix>
+                    <Matrix ty="128.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer">
+                  <matrix>
+                    <Matrix a="0.8388671875" d="0.8388671875" tx="-138.9" ty="49.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CDOThermometer">
+                  <matrix>
+                    <Matrix a="0.8388671875" d="0.8388671875" tx="-74.55" ty="-59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CombinedWater">
+                  <matrix>
+                    <Matrix tx="141.65" ty="104.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglass">
+                  <matrix>
+                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="139.95" ty="87.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/handlettinggo">
+                  <matrix>
+                    <Matrix a="0.70703125" b="-0.70703125" c="0.70703125" d="0.70703125" tx="-15.1" ty="-147.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

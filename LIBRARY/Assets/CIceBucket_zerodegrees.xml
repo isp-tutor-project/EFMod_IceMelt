@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CIceBucket_zerodegrees" itemID="5abe437d-00000e77" lastModified="1522418557">
+  <timeline>
+    <DOMTimeline name="CIceBucket_zerodegrees">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CIceCubeContainer" selected="true">
+                  <matrix>
+                    <Matrix tx="-4.65" ty="37.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CDOThermometer Assets/CDOThermometer" selected="true">
+                  <matrix>
+                    <Matrix tx="81.35" ty="-88.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

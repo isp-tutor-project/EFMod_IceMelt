@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/CDigitalClockwithtime" itemID="5a4cfd70-00000074" lastModified="1528749901">
+  <timeline>
+    <DOMTimeline name="CDigitalClockwithtime">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/digitalclockface">
+                  <matrix>
+                    <Matrix a="0.669723510742188" d="0.669723510742188" tx="2.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="12.2" height="11.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="47.2" ty="19.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.2" size="10" bitmapSize="200" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="119.1" height="39.15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-57.9" ty="-20.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 8:59</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="39.15" size="35" bitmapSize="700" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

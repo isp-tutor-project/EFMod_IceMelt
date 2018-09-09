@@ -1,0 +1,200 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956f69-00000b1e" lastModified="1536520041">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQmaterials">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer">
+                  <matrix>
+                    <Matrix a="1.61996459960938" d="1.61996459960938" tx="638.15" ty="-87.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CDOThermometer" selected="true">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-675.45" ty="-106.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CDigitalClockwithtime">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="436.55" ty="329"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/materials_water">
+                  <matrix>
+                    <Matrix tx="-385.1" ty="283.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/materials_cups">
+                  <matrix>
+                    <Matrix tx="-84" ty="-111.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_ice_herearematerials" fontRenderingMode="standard" left="-849.3" width="1832.4" height="144.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-66.9" ty="-495"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this &#xD;experiment: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_thermometer" fontRenderingMode="standard" left="-59.2" width="262.4" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-802.55" ty="-7.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Thermometer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_glasscups" fontRenderingMode="standard" left="-27.75" width="199.5" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-158.95" ty="81.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Glass cups</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_icecubebucket" fontRenderingMode="standard" left="-81.95" width="307.9" height="118.4" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="565.85" ty="81.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ice Cubes &amp; Ice &#xD;bucket</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_hotwater" fontRenderingMode="standard" left="-26.05" width="196.1" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-668.05" ty="438.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hot Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_coldwater" fontRenderingMode="standard" left="-34.85" width="213.7" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-250.95" ty="442.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Cold Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" left="51.95" width="40.1" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-459" ty="342.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>or</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_digitalclock" fontRenderingMode="standard" left="-50.2" width="244.4" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="369.25" ty="438.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Digital Clock</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="material_thermometer">
+                  <matrix>
+                    <Matrix a="-0.2078857421875" b="-0.97808837890625" c="0.97808837890625" d="-0.2078857421875" tx="-814.3" ty="-102.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.05" y="1.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="material_cups">
+                  <matrix>
+                    <Matrix a="-0.207870483398438" b="-0.97808837890625" c="0.97808837890625" d="-0.207870483398438" tx="-344.6" ty="-167.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.1" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="material_icecubesbucket">
+                  <matrix>
+                    <Matrix a="-0.207870483398438" b="-0.97808837890625" c="0.97808837890625" d="-0.207870483398438" tx="388.5" ty="-56"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.1" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="material_water">
+                  <matrix>
+                    <Matrix a="-0.207870483398438" b="-0.97808837890625" c="0.97808837890625" d="-0.207870483398438" tx="-814.3" ty="381.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.1" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="material_digitalclock">
+                  <matrix>
+                    <Matrix a="-0.207870483398438" b="-0.97808837890625" c="0.97808837890625" d="-0.207870483398438" tx="182.4" ty="333.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.1" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

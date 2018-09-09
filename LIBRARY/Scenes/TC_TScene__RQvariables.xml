@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b956f61-00000b1d" lastModified="1536520033">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_icemelting_varintro" fontRenderingMode="standard" top="-18.2" left="-846.2" width="1828.45" height="255.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-72" ty="-355.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Below are some variables that might affect the time it takes&#xD;for an ice cube to melt in water. You can test one of these &#xD;variables in your experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="77.65" size="60" bitmapSize="1200" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_initaltempoficecube" fontRenderingMode="standard" left="-347.8" width="839.6" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="28" ty="-48.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Initial Temperature of the Ice Cube</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_initaltempofwater" fontRenderingMode="standard" left="-321.5" width="787" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1.1" ty="61.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Initial Temperature of the Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_patternonglass" fontRenderingMode="standard" left="-191.25" width="526.5" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-126.2" ty="177.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Pattern on the Glass</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_glassshape" fontRenderingMode="standard" left="-171.85" width="487.7" height="64.7" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-149.95" ty="285.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Shape of the Glass</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_initialtempicecube">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="-18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_initialtempwater">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="94"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_patternonglass">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="208"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_shapeofglass">
+                  <matrix>
+                    <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="316"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.25" y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
