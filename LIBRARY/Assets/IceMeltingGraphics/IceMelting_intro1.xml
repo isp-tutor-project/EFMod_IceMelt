@@ -1,102 +1,126 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/IceMelting_intro1" itemID="5afc6eef-000002ca" lastModified="1528816395">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/IceMelting_intro1" itemID="5afc6eef-000002ca" lastModified="1537039506">
   <timeline>
     <DOMTimeline name="IceMelting_intro1">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Hand" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/digitalclockface">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHandIce" symbolType="button">
                   <matrix>
-                    <Matrix a="0.669723510742188" d="0.669723510742188" tx="99.05" ty="-147.8"/>
+                    <Matrix tx="-219.35" ty="-101.6"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMStaticText fontRenderingMode="standard" width="12.2" height="11.2" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="144.05" ty="-127.85"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>AM</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="11.2" size="10" bitmapSize="200" face="PTMono-Regular" fillColor="#33FFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="114.2" height="42.6" autoExpand="true" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="33.9" ty="-167.8"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters> 8:59</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="42.6" size="38" bitmapSize="760" face="PTMono-Regular" fillColor="#33FFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/table">
-                  <matrix>
-                    <Matrix ty="120.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer">
-                  <matrix>
-                    <Matrix a="0.8388671875" d="0.8388671875" tx="-138.9" ty="41.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.05" y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CDOThermometer">
-                  <matrix>
-                    <Matrix a="0.8388671875" d="0.8388671875" tx="-74.55" ty="-67.15"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-0.2" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglasswater">
-                  <matrix>
-                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="140.05" ty="101.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglass">
-                  <matrix>
-                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="139.95" ty="79.6"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.3" y="-0.15"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglassicecube">
-                  <matrix>
-                    <Matrix a="0.697784423828125" b="0.18463134765625" c="-0.19927978515625" d="0.7530517578125" tx="-152.1" ty="-29.15"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Hand">
-                  <matrix>
-                    <Matrix a="0.70709228515625" b="-0.7047119140625" c="0.7047119140625" d="0.70709228515625" tx="-174.9" ty="-57.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
+                    <Point x="44.45" y="46.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tallglassicecube" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tallglass" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" symbolType="button">
+                  <matrix>
+                    <Matrix tx="96.5" ty="-14.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.6" y="93.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tallglasswater" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CDOThermometer" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBucket" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-240" ty="-111.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="101.1" y="119.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CIceCubeContainer" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="table" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBG" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-274.95" ty="56.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="274.95" y="63.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name=" 8:59" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" symbolType="button">
+                  <matrix>
+                    <Matrix tx="29.45" ty="-184.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.6" y="36.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AM" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="digitalclockface" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>

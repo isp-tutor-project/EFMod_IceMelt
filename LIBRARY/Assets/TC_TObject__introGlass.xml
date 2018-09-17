@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__introGlass" itemID="5b9d5c2c-00001b97" lastModified="1537040615">
+  <timeline>
+    <DOMTimeline name="TC_TObject__introGlass">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglasswater" selected="true">
+                  <matrix>
+                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="43.55" ty="115.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglass" selected="true">
+                  <matrix>
+                    <Matrix a="0.87896728515625" d="0.782699584960938" tx="43.45" ty="93.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

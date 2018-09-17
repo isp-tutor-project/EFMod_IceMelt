@@ -1,22 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b956f76-00000b20" lastModified="1536520054">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b956f76-00000b20" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro2" lastModified="1537041565">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro2">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/icemelting_intro2" selected="true">
+                <DOMDynamicText name="Stext" fontRenderingMode="standard" left="-853.35" width="1627.7" height="131.4" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix a="2.5" d="2.5" tx="-4.05" ty="109.7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.2"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMDynamicText name="S_wewillplaceicecube" fontRenderingMode="standard" left="-853.35" width="1836.4" height="131.4" isSelectable="false" lineType="multiline">
-                  <matrix>
-                    <Matrix tx="-64.85" ty="-477.35"/>
+                    <Matrix a="1.00003051757813" d="1.00006103515625" tx="1018.35" ty="122"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -27,6 +19,67 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" name="Sclock" selected="true">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1014.9" ty="309.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.6" y="36.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBG" name="SbackGround">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="447.15" ty="759.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="275" y="63.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBucket" name="Sbucket">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="512.35" ty="445.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="101.1" y="119.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" name="Sglass">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1139.95" ty="627.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.6" y="93.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHandIce" name="Shand">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1098.6" ty="500.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.55" y="46.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

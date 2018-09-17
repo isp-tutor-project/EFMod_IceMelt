@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__introClock" itemID="5b9d5c1a-00001b90" lastModified="1537040608">
+  <timeline>
+    <DOMTimeline name="TC_TObject__introClock">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/digitalclockface" selected="true">
+                  <matrix>
+                    <Matrix a="0.669723510742188" d="0.669723510742188" tx="69.6" ty="36.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="12.2" height="11.2" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="114.6" ty="56.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.2" size="10" bitmapSize="200" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="114.2" height="42.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4.45" ty="16.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> 8:59</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="42.6" size="38" bitmapSize="760" face="PTMono-Regular" fillColor="#33FFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

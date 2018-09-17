@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__introHandIce" itemID="5b9d5c5e-00001ba8" lastModified="1537040627">
+  <timeline>
+    <DOMTimeline name="TC_TObject__introHandIce">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglassicecube">
+                  <matrix>
+                    <Matrix a="0.697784423828125" b="0.18463134765625" c="-0.19927978515625" d="0.7530517578125" tx="67.25" ty="72.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" selected="true" symbolType="button">
+                  <transformationPoint>
+                    <Point x="44.45" y="44.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

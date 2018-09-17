@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_initialtempicecube">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/TC_TObject__arrow" name="var_initialtempicecube">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="-18"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.25" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_initialtempwater">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/TC_TObject__arrow" name="var_initialtempwater">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="94"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.25" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_patternonglass">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/TC_TObject__arrow" name="var_patternonglass">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="208"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.25" y="1.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/Bluearrow" name="var_shapeofglass">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/TC_TObject__arrow" name="var_shapeofglass">
                   <matrix>
                     <Matrix a="-0.22491455078125" b="0.974365234375" c="0.974365234375" d="0.22491455078125" tx="-407.1" ty="316"/>
                   </matrix>

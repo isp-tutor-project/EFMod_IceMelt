@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual__SceneRgn" itemID="5b7745af-0000037b" sourceFlashFilepath="../EFMod_Algae/EFMod_Algae.xfl" sourceLibraryItemHRef="_Tutor Global Assets_/TC_TVirtual__SceneRgn" sourceLastModified="1536518598" lastModified="1536518598" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Tutor Global Assets_/TC_TVirtual__SceneRgn" itemID="5b7745af-0000037b" sourceFlashFilepath="../EFMod_Algae/EFMod_Algae.xfl" sourceLibraryItemHRef="_Tutor Global Assets_/TC_TVirtual__SceneRgn" sourceLastModified="1536518598" lastModified="1537039525" lastUniqueIdentifier="1" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="TC_TVirtual__SceneRgn">
       <layers>
-        <DOMLayer name="region" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="region" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="background" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="background" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
