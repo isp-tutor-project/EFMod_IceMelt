@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CTallGlassAssets/TallglasssteamSolid" itemID="5a257c42-000001f3" lastModified="1512406082">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CTallGlassAssets/TC_TObject__TallglasssteamSolid" itemID="5ba165f8-00001bad" lastModified="1537304056">
   <timeline>
-    <DOMTimeline name="TallglasssteamSolid">
+    <DOMTimeline name="TC_TObject__TallglasssteamSolid">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglass" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__Tallglass" selected="true">
                   <matrix>
                     <Matrix ty="14"/>
                   </matrix>

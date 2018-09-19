@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CIceBucket_zerodegrees" itemID="5abe437d-00000e77" lastModified="1522418557">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__CIceBucket_zerodegrees" itemID="5ba165d7-00001bab" lastModified="1537304023">
   <timeline>
-    <DOMTimeline name="CIceBucket_zerodegrees">
+    <DOMTimeline name="TC_TObject__CIceBucket_zerodegrees">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
