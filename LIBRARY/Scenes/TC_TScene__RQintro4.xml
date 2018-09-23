@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956f7c-00000b22" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro4" lastModified="1537041713">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956f7c-00000b22" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro4" lastModified="1537659353">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -6,6 +6,112 @@
     <DOMTimeline name="TC_TScene__RQintro4">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shand" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" name="Shand">
+                  <matrix>
+                    <Matrix a="1.55131530761719" b="-1.01695251464844" c="1.01670837402344" d="1.55091857910156" tx="805.35" ty="326.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_9" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introIceSmall" name="SiceCube">
+                  <matrix>
+                    <Matrix a="2.36885070800781" d="2.36885070800781" tx="1203.25" ty="710.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sglass" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" name="Sglass">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1139.95" ty="627.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.6" y="93.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sbucket" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBucket" name="Sbucket">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="512.35" ty="445.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="101.1" y="119.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SbackGround" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBG" name="SbackGround" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="447.15" ty="759.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="275" y="63.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sclock" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" name="Sclock">
+                  <matrix>
+                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1014.9" ty="309.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.6" y="36.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stext" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -22,55 +128,15 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" name="Sclock">
-                  <matrix>
-                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1014.9" ty="309.6"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="69.6" y="36.5"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBG" name="SbackGround" symbolType="button">
-                  <matrix>
-                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="447.15" ty="759.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="275" y="63.65"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introBucket" name="Sbucket">
-                  <matrix>
-                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="512.35" ty="445.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="101.1" y="119.4"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" name="Sglass">
-                  <matrix>
-                    <Matrix a="1.86505126953125" d="1.86505126953125" tx="1139.95" ty="627.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="43.6" y="93.6"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" name="Shand">
-                  <matrix>
-                    <Matrix a="1.55131530761719" b="-1.01695251464844" c="1.01670837402344" d="1.55091857910156" tx="805.35" ty="326.15"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.1" y="0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" locked="true" current="true" isSelected="true">
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglassicecube">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/TC_TObject__Tallglassicecube">
                   <matrix>
                     <Matrix a="0.697784423828125" b="0.18463134765625" c="-0.19927978515625" d="0.7530517578125" tx="67.25" ty="72.45"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" symbolType="button">
                   <transformationPoint>
                     <Point x="44.45" y="44.5"/>
                   </transformationPoint>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f89-00000b24" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537304147">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f89-00000b24" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537725025">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CIceBucket_negativetwentydegrees" name="Svar1b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CIceBucket_negativetwentydegrees" name="Svar1b">
                   <matrix>
                     <Matrix a="1.42401123046875" d="1.42401123046875" tx="171.6" ty="214.05"/>
                   </matrix>
@@ -37,11 +37,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__CTallGlasswWater" name="Svar2b" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__CTallGlasswWater" name="Svar2a" selected="true">
                   <matrix>
                     <Matrix a="1.60202026367188" d="1.60202026367188" tx="178.2" ty="236.5"/>
                   </matrix>
@@ -53,11 +53,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__TallglasssteamSolid" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__TallglasssteamSolid" name="Svar2b" selected="true">
                   <matrix>
                     <Matrix a="1.60202026367188" d="1.60202026367188" tx="178.2" ty="214.1"/>
                   </matrix>
@@ -69,7 +69,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -85,7 +85,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -101,7 +101,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -117,7 +117,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

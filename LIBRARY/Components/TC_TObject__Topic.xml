@@ -38,7 +38,7 @@
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/Tallglassicecube" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/TC_TObject__Tallglassicecube" selected="true">
                   <matrix>
                     <Matrix a="0.697265625" b="0.1839599609375" c="-0.19854736328125" d="0.752532958984375" tx="396.55" ty="200.05"/>
                   </matrix>

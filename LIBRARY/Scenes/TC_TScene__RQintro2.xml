@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b956f76-00000b20" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro2" lastModified="1537041565">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro2" itemID="5b956f76-00000b20" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro2" lastModified="1537659257">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro2">
       <layers>
@@ -27,7 +27,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" name="Sclock" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introClock" name="Sclock">
                   <matrix>
                     <Matrix a="1.86505126953125" d="1.86505126953125" tx="1014.9" ty="309.6"/>
                   </matrix>
@@ -51,6 +51,14 @@
                     <Point x="101.1" y="119.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/TC_TObject__Tallglassicecube" name="SiceCube1" selected="true">
+                  <matrix>
+                    <Matrix a="1.25686645507813" b="0.725631713867188" c="-0.725631713867188" d="1.25686645507813" tx="1213.9" ty="642.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" name="Sglass">
                   <matrix>
                     <Matrix a="1.86505126953125" d="1.86505126953125" tx="1139.95" ty="627.1"/>
@@ -59,7 +67,7 @@
                     <Point x="43.6" y="93.6"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHandIce" name="Shand">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" name="Shand1">
                   <matrix>
                     <Matrix a="1.86505126953125" d="1.86505126953125" tx="1098.6" ty="500.85"/>
                   </matrix>

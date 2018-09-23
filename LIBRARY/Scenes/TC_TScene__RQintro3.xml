@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5b956f79-00000b21" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537041711">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5b956f79-00000b21" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537659321">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -26,7 +26,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_3" color="#FF800A">
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -54,6 +54,17 @@
                     <Point x="101.1" y="119.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CTallGlassAssets/TC_TObject__Tallglassicecube" name="SiceCube1">
+                  <matrix>
+                    <Matrix a="1.25686645507813" b="0.725631713867188" c="-0.725631713867188" d="1.25686645507813" tx="1219.4" ty="725.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introGlass" name="Sglass">
                   <matrix>
                     <Matrix a="1.86505126953125" d="1.86505126953125" tx="1139.95" ty="627.1"/>
@@ -62,7 +73,7 @@
                     <Point x="43.6" y="93.6"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" name="Shand">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introHand" name="Shand1">
                   <matrix>
                     <Matrix a="1.85496520996094" d="1.8544921875" tx="926.45" ty="490.35"/>
                   </matrix>
@@ -70,7 +81,7 @@
                     <Point x="0.05" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introIceSmall" name="SiceCube">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__introIceSmall" name="SiceCube" selected="true">
                   <matrix>
                     <Matrix a="2.36885070800781" d="2.36885070800781" tx="1203.25" ty="710.9"/>
                   </matrix>
@@ -82,11 +93,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_2" color="#9933CC" locked="true" current="true" isSelected="true">
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>
