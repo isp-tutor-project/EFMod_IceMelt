@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f89-00000b24" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537725025">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f89-00000b24" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537814557">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
@@ -9,7 +9,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CIceBucket_negativetwentydegrees" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CIceBucket_negativetwentydegrees" name="Svar1b" selected="true">
                   <matrix>
                     <Matrix a="1.42401123046875" d="1.42401123046875" tx="171.6" ty="214.05"/>
                   </matrix>
@@ -37,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar2a" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -73,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PatternVariableAssets/TC_TObject__PatternGlass_top" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/PatternVariableAssets/TC_TObject__PatternGlass_top" name="Svar3a" selected="true">
                   <matrix>
                     <Matrix tx="149.2" ty="151.1"/>
                   </matrix>
@@ -89,7 +89,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/PatternVariableAssets/TC_TObject__NoPattern_GlassTop" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/PatternVariableAssets/TC_TObject__NoPattern_GlassTop" name="Svar3b" selected="true">
                   <matrix>
                     <Matrix tx="149.2" ty="151.05"/>
                   </matrix>
@@ -105,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglass" name="Svar4a">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglass" name="Svar4a" selected="true">
                   <matrix>
                     <Matrix a="1.64891052246094" d="1.64891052246094" tx="178.25" ty="335.7"/>
                   </matrix>
@@ -117,11 +117,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#009999" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4b" color="#009999" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__Tallglass" name="Svar4b">
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__Tallglass" name="Svar4b" selected="true">
                   <matrix>
                     <Matrix a="1.64891052246094" d="1.64891052246094" tx="178.25" ty="230.9"/>
                   </matrix>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5ba93f67-000008c8" lastModified="1537818471">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt1b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__CIceBucket_negativetwentydegrees" name="Svar1b" selected="true">
+                  <matrix>
+                    <Matrix a="1.42401123046875" d="1.42401123046875" tx="171.6" ty="199.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                  <matrix>
+                    <Matrix a="1.3746337890625" tx="415.35" ty="48.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.45" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout1b" selected="true">
+                  <matrix>
+                    <Matrix tx="347.95" ty="50.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="122.25" y="23.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

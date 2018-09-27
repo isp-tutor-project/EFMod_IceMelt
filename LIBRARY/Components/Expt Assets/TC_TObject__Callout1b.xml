@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Callout1b" itemID="5ba93b7b-000007fa" lastModified="1537817467">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Callout1b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4268 597S4[4268 608 4260 615!4260 615[4253 623 4242 623!4242 623[4231 623 4223 615!4223 615[4216 608 4216 597!4216 597[4216 586 4223 578!4223 578[4231 571 4242 571!4242 571[4253 571 4260 578!4260 578[4268 586 4268 597!3493 597[3493 608
+ 3485 615!3485 615[3478 623 3467 623!3467 623[3456 623 3448 615!3448 615[3441 608 3441 597!3441 597[3441 586 3448 578!3448 578[3456 571 3467 571!3467 571[3478 571 3485 578!3485 578[3493 586 3493 597"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout" selected="true" centerPoint3DX="-5.9" centerPoint3DY="2.55">
+                  <matrix>
+                    <Matrix a="-1" tx="65.3" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.65" y="15.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="174" height="44.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="70.05" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Initial Temperature of the Ice Cube: -20 C  (-4 F)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="19.4" size="15" bitmapSize="300" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

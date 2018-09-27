@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5ba93e16-00000853" lastModified="1537894503">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt3b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/PatternVariableAssets/TC_TObject__NoPattern_GlassTop" name="Svar3b">
+                  <matrix>
+                    <Matrix a="0.51690673828125" d="0.927703857421875" tx="119.3" ty="-7.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix tx="265.75" ty="-13.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout3b" name="ScallOut">
+                  <matrix>
+                    <Matrix tx="196.45" ty="-10.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="93.55" y="22.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

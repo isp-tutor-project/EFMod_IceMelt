@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba93f45-000008b0" lastModified="1537894548">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt4a">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglass" name="Svar4a">
+                  <matrix>
+                    <Matrix a="1.64891052246094" d="1.64891052246094" tx="314.05" ty="92.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+                  <matrix>
+                    <Matrix tx="4" ty="67.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout4a" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix ty="69.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="101.1" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
