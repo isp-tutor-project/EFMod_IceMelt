@@ -30,7 +30,7 @@
                     <Point x="-0.2" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/ShortGlassPatternCombinedSolid" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/ShortGlassPatternCombinedSolid" selected="true">
                   <matrix>
                     <Matrix a="0.87896728515625" d="0.782699584960938" tx="395" ty="230.65"/>
                   </matrix>
@@ -46,7 +46,7 @@
                     <Point x="0.05" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/Shortglasssteamonly" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" selected="true">
                   <matrix>
                     <Matrix tx="392.95" ty="170.05"/>
                   </matrix>

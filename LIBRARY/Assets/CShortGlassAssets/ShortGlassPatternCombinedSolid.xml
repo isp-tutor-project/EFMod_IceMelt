@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/CShortGlassAssets/ShortGlassPatternCombinedSolid" itemID="5a26c259-00000032" lastModified="1512489561">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CShortGlassAssets/ShortGlassPatternCombinedSolid" itemID="5a26c259-00000032" lastModified="1512489561">
   <timeline>
     <DOMTimeline name="ShortGlassPatternCombinedSolid">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/Shortglasspatternonly" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasspatternonly" selected="true">
                   <matrix>
                     <Matrix ty="2.35"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="-0.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/Shortglass" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglass" selected="true">
                   <transformationPoint>
                     <Point x="0.05" y="-0.1"/>
                   </transformationPoint>

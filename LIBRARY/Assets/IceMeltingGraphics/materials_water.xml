@@ -55,7 +55,7 @@
                     <Edge cubics="!1420 3072(;1420,3072 1420,381 1420,381q1420 3072 1420 381);"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CShortGlassAssets/Shortglasssteamonly" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" selected="true">
                   <matrix>
                     <Matrix a="2.54315185546875" d="2" tx="-213.05" ty="-53"/>
                   </matrix>

@@ -1,22 +1,19 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/TC_TObject__CIceBucket_negativetwentydegrees" itemID="5ba165cb-00001baa" lastModified="1538927760">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_HTMLControls/TC_THtmlText__CallOutText" itemID="5bb8f667-00001782" lastModified="1538856249">
   <timeline>
-    <DOMTimeline name="TC_TObject__CIceBucket_negativetwentydegrees">
+    <DOMTimeline name="TC_THtmlText__CallOutText">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CIceCubeContainer">
-                  <matrix>
-                    <Matrix ty="36.6"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__Assets/TextArea" name="SControlContainer">
                   <transformationPoint>
-                    <Point/>
+                    <Point x="50" y="50"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CDOThermometer Assets/ThermometernegativetwentydegreesSolid">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TObject__ArrowHead">
                   <matrix>
-                    <Matrix tx="83.1" ty="-88.95"/>
+                    <Matrix tx="106.2" ty="19.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

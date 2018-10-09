@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba93f4d-000008bc" lastModified="1537894668">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5ba93f4d-000008bc" lastModified="1538928798">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4b">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Svar4" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -14,21 +14,91 @@
                     <Point x="0.2" y="-0.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shortglasswater" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglasswater">
                   <matrix>
-                    <Matrix tx="1.7" ty="97.65"/>
+                    <Matrix a="1.57896423339844" d="1.88407897949219" tx="282.8" ty="216.2"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="63.5" y="25"/>
+                    <Point x="0.05" y="0.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout4b" name="ScallOut">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglasssteam" name="Svar2a">
                   <matrix>
-                    <Matrix ty="99.65"/>
+                    <Matrix a="1.95010375976563" d="1.86532592773438" tx="285.3" ty="-25.1"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="100.2" y="22.7"/>
+                    <Point x="0.1" y="-0.05"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2b" color="#00FFFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" name="Svar2b">
+                  <matrix>
+                    <Matrix a="1.43891906738281" d="1.86532592773438" tx="280.55" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3a" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglasspattern" name="Svar3a">
+                  <matrix>
+                    <Matrix a="1.64727783203125" d="1.68310546875" tx="283.05" ty="206.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3b" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglasspattern" name="Svar3b">
+                  <matrix>
+                    <Matrix a="1.64727783203125" d="1.68310546875" tx="283.05" ty="206.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
