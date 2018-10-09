@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CTallGlassAssets/Tallglasssteam" itemID="5a1c798e-00000016" lastModified="1511815566">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CTallGlassAssets/TC_TObject__Tallglasssteam" itemID="5bbd02e5-00003ead" lastModified="1539113701">
   <timeline>
-    <DOMTimeline name="Tallglasssteam">
+    <DOMTimeline name="TC_TObject__Tallglasssteam">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

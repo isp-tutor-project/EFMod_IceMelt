@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/CDOThermometer Assets" itemID="5b92bb53-000009f0"/>
           <DOMFolderItem name="Assets/CIceCubeContainer Assets" itemID="5b92bb53-000009f1"/>
           <DOMFolderItem name="Assets/CShortGlassAssets" itemID="5a257594-000000fc"/>
@@ -19,11 +19,11 @@
           <DOMFolderItem name="Assets/IceMeltingGraphics/CIceCubeContainer Assets" itemID="5a25753e-000000f1"/>
           <DOMFolderItem name="Assets/IceMeltingGraphics/CTallGlassAssets" itemID="5a257596-000000fd"/>
           <DOMFolderItem name="Assets/PatternVariableAssets" itemID="5abe484d-00000fb2"/>
-          <DOMFolderItem name="Components" itemID="5b92f82c-000020f8" isExpanded="true"/>
+          <DOMFolderItem name="Components" itemID="5b92f82c-000020f8"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba93076-0000042f"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -60,15 +60,15 @@
           <Include href="Assets/CIceCubeContainer Assets/icecubesincontainer.xml" loadImmediate="false" itemID="5b92bb53-00000a08" lastModified="1511815829"/>
           <Include href="Assets/CShortGlassAssets/Shortglass.xml" loadImmediate="false" itemID="5a1c79bb-00000022" lastModified="1511815611"/>
           <Include href="Assets/CShortGlassAssets/ShortGlassPatternCombinedSolid.xml" loadImmediate="false" itemID="5a26c259-00000032" lastModified="1512489561"/>
-          <Include href="Assets/CShortGlassAssets/Shortglasspatternonly.xml" loadImmediate="false" itemID="5a259fca-00000038" lastModified="1512415178"/>
-          <Include href="Assets/CShortGlassAssets/Shortglasssteamonly.xml" loadImmediate="false" itemID="5a257e68-00000242" lastModified="1512406632"/>
           <Include href="Assets/CShortGlassAssets/Shortglasswater.xml" loadImmediate="false" itemID="5bba2e5b-00001c80" lastModified="1538928219"/>
           <Include href="Assets/CShortGlassAssets/TC_TObject__Shortglass.xml" loadImmediate="false" itemID="5ba1660b-00001bae" lastModified="1537304075"/>
-          <Include href="Assets/CTallGlassAssets/Tallglasspattern.xml" loadImmediate="false" itemID="5a1c7971-0000000e" lastModified="1511815537"/>
-          <Include href="Assets/CTallGlassAssets/Tallglasssteam.xml" loadImmediate="false" itemID="5a1c798e-00000016" lastModified="1511815566"/>
+          <Include href="Assets/CShortGlassAssets/TC_TObject__Shortglasspatternonly.xml" loadImmediate="false" itemID="5bbd0464-00004073" lastModified="1539114084"/>
+          <Include href="Assets/CShortGlassAssets/TC_TObject__Shortglasssteamonly.xml" loadImmediate="false" itemID="5bbd02d8-00003eac" lastModified="1539113688"/>
           <Include href="Assets/CTallGlassAssets/Tallglasswater.xml" loadImmediate="false" itemID="5b92bb53-00000a11" lastModified="1511815518"/>
           <Include href="Assets/CTallGlassAssets/TC_TObject__CTallGlasswWater.xml" loadImmediate="false" itemID="5ba165f0-00001bac" lastModified="1537304048"/>
           <Include href="Assets/CTallGlassAssets/TC_TObject__Tallglass.xml" loadImmediate="false" itemID="5ba16612-00001baf" lastModified="1537304082"/>
+          <Include href="Assets/CTallGlassAssets/TC_TObject__Tallglasspattern.xml" loadImmediate="false" itemID="5bbd02c4-00003eab" lastModified="1539113668"/>
+          <Include href="Assets/CTallGlassAssets/TC_TObject__Tallglasssteam.xml" loadImmediate="false" itemID="5bbd02e5-00003ead" lastModified="1539113701"/>
           <Include href="Assets/CTallGlassAssets/TC_TObject__TallglasssteamSolid.xml" loadImmediate="false" itemID="5ba165f8-00001bad" lastModified="1537304056"/>
           <Include href="Assets/IceMeltingGraphics/CDigitalClockwithtime.xml" loadImmediate="false" itemID="5a4cfd70-00000074" lastModified="1528749901"/>
           <Include href="Assets/IceMeltingGraphics/CDOThermometer.xml" loadImmediate="false" itemID="5a25771e-00000158" lastModified="1512404766"/>
@@ -128,13 +128,13 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5ba93b68-000007ec" lastModified="1538927507"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5ba93e0d-00000846" lastModified="1538927539"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5ba93e16-00000853" lastModified="1538927459"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba93f45-000008b0" lastModified="1538928567"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba93f4d-000008bc" lastModified="1538928798"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5ba93f45-000008b0" lastModified="1539114104"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5ba93f4d-000008bc" lastModified="1539114022"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537894672"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956f83-00000b23" lastModified="1537036219"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956f8f-00000b25" lastModified="1537036221"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956f89-00000b24" lastModified="1537814557"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90f4-00002ebf" lastModified="1539018998"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90f4-00002ebf" lastModified="1539114114"/>
           <Include href="Exports/TL_IceMelt__Movie.xml" loadImmediate="false" itemID="5b956f95-00000b26" lastModified="1536520085"/>
           <Include href="Exports/TL_IceMelt__RQintro1.xml" loadImmediate="false" itemID="5b9587a8-00000f63" lastModified="1536526248"/>
           <Include href="Exports/TL_IceMelt__RQintro2.xml" loadImmediate="false" itemID="5b9587bb-00000f6c" lastModified="1536526267"/>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/Tallglasspattern" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CTallGlassAssets/TC_TObject__Tallglasspattern" selected="true">
                   <matrix>
                     <Matrix tx="0.4" ty="9.4"/>
                   </matrix>

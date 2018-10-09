@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba93f45-000008b0" lastModified="1538928567">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4a" itemID="5ba93f45-000008b0" lastModified="1539114104">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt4a">
       <layers>
-        <DOMLayer name="Svar4" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar4" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shortglasswater" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Shortglasswater" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" name="Svar2a">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasssteamonly" name="Svar2a">
                   <matrix>
                     <Matrix a="1.86532592773438" d="1.86532592773438" tx="107.4" ty="93.85"/>
                   </matrix>
@@ -57,7 +57,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" name="Svar2b">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasssteamonly" name="Svar2b">
                   <matrix>
                     <Matrix a="1.86532592773438" d="1.86532592773438" tx="107.4" ty="93.85"/>
                   </matrix>
@@ -73,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasspatternonly" name="Svar3a">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasspatternonly" name="Svar3a">
                   <matrix>
                     <Matrix a="1.64727783203125" d="1.74490356445313" tx="109.75" ty="220.45"/>
                   </matrix>
@@ -89,7 +89,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasspatternonly" name="Svar3b">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasspatternonly" name="Svar3b">
                   <matrix>
                     <Matrix a="1.64727783203125" d="1.74490356445313" tx="109.75" ty="220.45"/>
                   </matrix>

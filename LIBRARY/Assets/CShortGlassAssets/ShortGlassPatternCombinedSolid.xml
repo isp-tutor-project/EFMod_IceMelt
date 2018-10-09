@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasspatternonly" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasspatternonly" selected="true">
                   <matrix>
                     <Matrix ty="2.35"/>
                   </matrix>

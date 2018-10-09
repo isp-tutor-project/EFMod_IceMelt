@@ -46,7 +46,7 @@
                     <Point x="0.05" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/Shortglasssteamonly" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/CShortGlassAssets/TC_TObject__Shortglasssteamonly" selected="true">
                   <matrix>
                     <Matrix tx="392.95" ty="170.05"/>
                   </matrix>

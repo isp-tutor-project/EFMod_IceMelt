@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CShortGlassAssets/Shortglasspatternonly" itemID="5a259fca-00000038" lastModified="1512415178">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CShortGlassAssets/TC_TObject__Shortglasspatternonly" itemID="5bbd0464-00004073" lastModified="1539114084">
   <timeline>
-    <DOMTimeline name="Shortglasspatternonly">
+    <DOMTimeline name="TC_TObject__Shortglasspatternonly">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
