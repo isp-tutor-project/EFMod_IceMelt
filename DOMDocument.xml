@@ -19,11 +19,11 @@
           <DOMFolderItem name="Assets/IceMeltingGraphics/CIceCubeContainer Assets" itemID="5a25753e-000000f1"/>
           <DOMFolderItem name="Assets/IceMeltingGraphics/CTallGlassAssets" itemID="5a257596-000000fd"/>
           <DOMFolderItem name="Assets/PatternVariableAssets" itemID="5abe484d-00000fb2"/>
-          <DOMFolderItem name="Components" itemID="5b92f82c-000020f8"/>
+          <DOMFolderItem name="Components" itemID="5b92f82c-000020f8" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba93076-0000042f"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -111,6 +111,7 @@
           <Include href="Assets/TC_TObject__introHand.xml" loadImmediate="false" itemID="5b9d5c3e-00001ba0" lastModified="1537040621"/>
           <Include href="Assets/TC_TObject__introHandIce.xml" loadImmediate="false" itemID="5b9d5c5e-00001ba8" lastModified="1537040627"/>
           <Include href="Assets/TC_TObject__introIceSmall.xml" loadImmediate="false" itemID="5b9d5db3-00001c15" lastModified="1537040633"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba435c-000022f3" lastModified="1538933596"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537742979"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout1a.xml" loadImmediate="false" itemID="5ba93732-0000064a" lastModified="1537894125"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout1b.xml" loadImmediate="false" itemID="5ba93b7b-000007fa" lastModified="1537817467"/>
@@ -154,7 +155,6 @@
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958570-00000e3e" lastModified="1537303807"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956f61-00000b1d" lastModified="1536520033"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba435c-000022f3" lastModified="1538933596"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1" currentFrame="1">
