@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/CIceCubeContainer" itemID="5a257795-0000016e" lastModified="1512404885">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/IceMeltingGraphics/CIceCubeContainer" itemID="5a257795-0000016e" lastModified="1556121154">
   <timeline>
     <DOMTimeline name="CIceCubeContainer">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer Assets/icecubecontainer" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer Assets/icecubecontainer" cacheAsBitmap="true">
                   <matrix>
                     <Matrix ty="13"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point y="-0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer Assets/icecubesincontainer" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/IceMeltingGraphics/CIceCubeContainer Assets/icecubesincontainer" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="0.95" ty="-81.05"/>
                   </matrix>
